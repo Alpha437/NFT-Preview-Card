@@ -151,3 +151,11 @@ picture .nft-image {
     font-size: 0.8rem;
   }
 }
+
+/* || MOBILE LANDSCAPE*/
+@media (orientation: landscape) and (hover: none) and (pointer: coarse) {
+  .container {
+    margin: 1rem auto;
+  }
+  }
+  
